@@ -18,7 +18,7 @@ The terminal contains a series of commands, allowing for quick and easy experime
 
 This could include changing the number of generations for the Genetic Algorithm to run, or the activation function for the Neural Network. 
 
-To see more information for a specific command, simply run "help <command>" (e.g. "help gens").
+To see more information for a specific command, simply run "help (command)" (e.g. "help gens").
 
 A command can also be executed with no arguments, this will display it's current value.
 
@@ -29,6 +29,12 @@ A command can also be executed with no arguments, this will display it's current
 
 
 #### Running the model
+
+Once the parameters have been set to a desired value, the model can be run by entering "run"
+
+Note that the time it takes for the network to execute depends on the size of the parameters. For example, 500 epochs typically takes around 30 seconds to run.
+
+#### The y-axis of each graph represents the % change in asset price
 
 ![run_demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d6f71752-9617-4bc1-ab6e-795b9e1a5546)
 
