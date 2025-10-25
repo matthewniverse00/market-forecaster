@@ -1,7 +1,7 @@
 
 # Stock Market Forecaster
 
-Analysing past stock market price fluctuation can allow for more informed investments. This project utilises a Genetic Algorithm paired with a Neural Network (along with different "Techncal Indicators") to measure asset price movement.
+Analysing past stock market price fluctuation can allow for informed investments. This project utilises a Genetic Algorithm paired with a Neural Network (along with different "Techncal Indicators") to measure asset price movement.
 
 The Genetic Algorithm runs (by default) 500 generations to optimise a portfolio for a given list of pre-downloaded stock assets. The given defaults are Amazon. Apple, Google, Microsoft and Sony.
 
